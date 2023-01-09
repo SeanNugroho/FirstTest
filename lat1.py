@@ -1,3 +1,5 @@
+#cuman ngasih komen kok
+
 #program perkalian matriks
 
 ka = int(input("Masukkan banyak kolom pada matriks A : "))
